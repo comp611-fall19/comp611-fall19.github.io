@@ -12,12 +12,12 @@ section:last-child {
 }
 
 h1{
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Fjalla One', sans-serif;
   font-weight: bold;
 }
 
 h2 {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Pacifico', cursive;
   font-weight: normal;
  
 }
@@ -79,7 +79,8 @@ li {
 
 
 .header h2 {
-  margin: 8px auto;
+	  font-size: 36px;
+  margin:-5px auto;
 }
 
 .links {
